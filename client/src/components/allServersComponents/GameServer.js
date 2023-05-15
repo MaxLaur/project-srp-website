@@ -108,7 +108,7 @@ const GameServer = ({ serverApiUrl, serverName, serverLink }) => {
     </Wrapper>
   )
 }
-const Wrapper = styled.div`
+const Wrapper = styled.section`
   background-color: #1f2620;
   //keeping this here for when I am able to fix my div
   //pushing down everything beneath it.

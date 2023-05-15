@@ -115,14 +115,14 @@ const ServersList = () => {
     </>
   )
 }
-const Wrapper = styled.div`
+const Wrapper = styled.main`
 `;
-const ServerRegionsButtonsDiv = styled.div`
+const ServerRegionsButtonsDiv = styled.section`
   display: flex;
   justify-content: center;
   
 `;
-const ServersRegions = styled.div`
+const ServersRegions = styled.section`
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;

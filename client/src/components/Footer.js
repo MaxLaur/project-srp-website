@@ -22,7 +22,7 @@ const Footer = () => {
       </Wrapper>
   )
 }
-const Wrapper = styled.div`
+const Wrapper = styled.section`
   display: flex;
   justify-content: center;
   height: 50px;

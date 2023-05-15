@@ -162,12 +162,12 @@ const Cars = () => {
     </>
   )
 }
-const BigWrapper = styled.div`
+const BigWrapper = styled.main`
   display: flex;
   justify-content: center;
   padding-bottom: 50px;
 `;
-const Wrapper = styled.div`
+const Wrapper = styled.section`
   display: flex;
   flex-direction: column;
   @media (max-width: 1300px) {
@@ -177,7 +177,7 @@ const H1 = styled.h1`
   text-align: center;
   color: #b9955b;
 `;
-const Details = styled.div`
+const Details = styled.article`
   display: flex;
   @media (max-width: 1300px) {
     flex-direction: column;
@@ -211,7 +211,7 @@ const NextAndPreviousButtonsDiv = styled.div`
   display: flex;
   justify-content: center;
 `;
-const CarImgAndDetails = styled.div`
+const CarImgAndDetails = styled.article`
 @media (max-width: 1300px) {
     margin: 0 auto;
   }
@@ -273,7 +273,7 @@ const ThumbnailButton = styled.button`
   margin: 3px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
 `;
-const CarDetails = styled.div`
+const CarDetails = styled.article`
   display: flex;
   justify-content: space-around;
   background-color: #1f2620;

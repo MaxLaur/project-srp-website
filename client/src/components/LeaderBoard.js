@@ -199,7 +199,7 @@ const Wrapper = styled.div`
   margin-bottom: 100px;
   color: #b9955b;
 `;
-const PageWrapper = styled.div`
+const PageWrapper = styled.section`
   width: 80%;
   background-color: #1f2620;
   border-radius: 20px;

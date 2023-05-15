@@ -31,7 +31,7 @@ const TopNav = () => {
   )
 }
 
-const Wrapper = styled.div`
+const Wrapper = styled.section`
   position: absolute;
   display: flex;
   justify-content: center;

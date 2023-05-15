@@ -49,14 +49,14 @@ const ProjectInfo = () => {
     </>
   )
 }
-const Wrapper = styled.div`
+const Wrapper = styled.section`
   display: flex;
   flex-direction: column;
   justify-content: center;
   color: #b9955b;
   padding-bottom: 70px;
 `;
-const ProjectInfoDivs = styled.div`
+const ProjectInfoDivs = styled.section`
   display: flex;
   justify-content: space-between;
   margin-top: 40px;
@@ -84,7 +84,7 @@ const ProjectInfoDiv = styled.div`
   }
 `;
 
-const ProjectInfoDiv1 = styled.div`
+const ProjectInfoDiv1 = styled.article`
   background-color: #1f2620;
   max-width: 500px;
   max-height: 190px;
@@ -109,7 +109,7 @@ const ProjectInfoDiv1 = styled.div`
     max-height: 500px;
   }
 `;
-const ProjectInfoDiv2 = styled.div`
+const ProjectInfoDiv2 = styled.article`
   background-color: #1f2620;
   max-width: 500px;
   margin-top: 200px;
@@ -132,7 +132,7 @@ const ProjectInfoDiv2 = styled.div`
     margin-top: 15px;
   }
 `;
-const ProjectInfoDiv3 = styled.div`
+const ProjectInfoDiv3 = styled.article`
   background-color: #1f2620;
   max-width: 500px;
   max-height: 110px;
