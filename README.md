@@ -23,7 +23,7 @@ Open a second terminal and write the commands ```cd server```,  ```yarn install 
 
 <div align="center">
 <p>🎬 Video demo 🎬</p>
-  <a href="https://www.youtube.com/watch?v=VKlrg3rCXeQ">
+  <a href="https://www.youtube.com/watch?v=VKlrg3rCXeQ" target="blank">
     <img src="https://img.youtube.com/vi/VKlrg3rCXeQ/0.jpg" alt="YouTube Video">
   </a>
 </div>
