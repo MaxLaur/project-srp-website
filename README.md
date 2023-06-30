@@ -20,9 +20,16 @@ The features are:
 
 To run, open a terminal and write the commands ```cd client```, ```yarn install ``` and ```yarn start```.
 Open a second terminal and write the commands ```cd server```,  ```yarn install ``` and ```yarn start```
-[![YouTube Video](https://img.youtube.com/vi/VKlrg3rCXeQ/0.jpg)](https://www.youtube.com/watch?v=VKlrg3rCXeQ)
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/VKlrg3rCXeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<div align="center">
+<p>🎬 Video demo 🎬</p>
+  <a href="https://www.youtube.com/watch?v=VKlrg3rCXeQ">
+    <img src="https://img.youtube.com/vi/VKlrg3rCXeQ/0.jpg" alt="YouTube Video">
+  </a>
+</div>
+
+<!-- [![YouTube Video](https://img.youtube.com/vi/VKlrg3rCXeQ/0.jpg)](https://www.youtube.com/watch?v=VKlrg3rCXeQ) -->
+
 
 ![srp banner](./client/src/assets/carsPage.png)
 ### Cars page
