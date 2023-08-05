@@ -12,7 +12,7 @@ const ServersList = () => {
   // set which region or favorite servers we want to display
   const [ serversChoice, setServersChoice ] = useState({ allServers: true, asianServers: false, eurServers: false, usServers: false, favoriteServers: false})
   
-  // set servers by region choice or favorited depending which button is pressed.
+  // Set servers by region choice or favorited depending which button is pressed.
   const displayServers = (ev) => {
     const value = ev.target.value
     if(value === 'all') {
