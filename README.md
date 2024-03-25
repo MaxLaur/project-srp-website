@@ -1,11 +1,9 @@
-# Concordia Bootcamp final project April 2023.
-
 ## Website for srp.
 
 ![srp banner](./client/src/assets/srpBanner.png)
 
 <p>
-  This is a website I have made for the Shutoko Revival Project, a popular mod for the racing simulator Assetto Corsa. This project was required to be made on the MERN stack with CRUD and using only styled components as styling library.
+  This is a website I have made for the Shutoko Revival Project, a popular mod for the racing simulator Assetto Corsa. This project was made with the MERN stack with CRUD and using only styled components as styling library.
 </p>
 The features are:
 <ul>
